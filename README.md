@@ -43,7 +43,7 @@ Aira is currently a W.I.P. Discord Application that will be used in communities 
 - PostgreSQL, MySQL, MongoDB, Prisma ORM
 
 ### DevOps & Tools
-- Git/GitHub, Docker, Linux, VS Code
+- Git/GitHub/GitLab, Docker, Linux, VS Code
 
 ### Testing & Quality
 - Cypress, ESLint/Prettier
@@ -54,8 +54,3 @@ Aira is currently a W.I.P. Discord Application that will be used in communities 
 - Earning B.S. in Computer Science, University of Illinois Chicago, 2028
 -   Relevant Coursework: Program Design, Discrete Mathematics, Calculus 3
 
----
-
-## Quick Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
