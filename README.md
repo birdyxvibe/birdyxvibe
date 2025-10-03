@@ -9,9 +9,9 @@ I'm a 2nd-year Computer Science student at the University of Illinois Chicago, c
 
 ## Table of Contents
 - [Projects](#projects)
--   [Project 1: Aira](#project-1-aira)
--   [Project 2: Database & Web Server Project](#project-2-dbweb)
--   [Project 3: FragileLife](#project-3-fragilelife)
+ -   [Project 1: Aira](#project-1-aira)
+ -   [Project 2: Database & Web Server Project](#project-2-dbweb)
+ -   [Project 3: FragileLife](#project-3-fragilelife)
 - [Skills](#skills)
 - [Education](#education)
 - [Contact](#contact)
@@ -21,7 +21,7 @@ I'm a 2nd-year Computer Science student at the University of Illinois Chicago, c
 Aira is currently a W.I.P. Discord Application that will be used in communities across the platform to add further interaction beyond simlpy chatting. This application is based heavily upon a previous project of mine, [Ayu](), though it has much more backend organization and made the switch from MongoDB to PostgreSQL+Prisma ORM
 - Tech: Node.js, JavaScript, PostgreSQL, Prisma ORM, ESLint
 - Highlihts:
--   Database Access abstracted for ease of use by importing within execution files.
+ -   Database Access abstracted for ease of use by importing within execution files.
 - Repo: [Aira](https://github.com/birdyxvibe/Aira)
 - Screenshots:
 -   ![airaScreenshot1]()
@@ -52,5 +52,5 @@ Aira is currently a W.I.P. Discord Application that will be used in communities 
 
 ## Education
 - Earning B.S. in Computer Science, University of Illinois Chicago, 2028
--   Relevant Coursework: Program Design, Discrete Mathematics, Calculus 3
+ -   Relevant Coursework: Program Design, Discrete Mathematics, Calculus 3
 
