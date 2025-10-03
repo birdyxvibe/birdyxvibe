@@ -4,8 +4,8 @@ I'm a 2nd-year Computer Science student at the University of Illinois Chicago, c
 
 - 🌱 Currently Learning: Next.js, C++, and C
 - 🗺️ Exploring: Machine Learning, Artificial Intelligence, Cloud Computing
-- Something
-- Something Else
+- ⚙️ Currently Working On: [Aira](https://github.com/birdyxvibe/Aira)
+- ⚡️ Fun Fact: My favorite genre of music is EDM
 
 ## Table of Contents
 - [Projects](#projects)
