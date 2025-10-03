@@ -35,7 +35,7 @@ The Web-Database Server was a project created in class to spin up a database on 
   - Accesses PostgreSQL database run via Docker and loads data onto site. (Data must be preloaded via prisma or another database utility)
   - Allows the background color of pages to be changed on-site, which is then stored in the database and will persist
   - Utilizes routing and slugs to route the end-user to the correct page from the table of contents.
-- Repo: [Aira](https://github.com/birdyxvibe/web-db-server)
+- Repo: [Aira](https://github.com/birdyxvibe/db-web-server-project)
 - Screenshots:
 -   ![wdsScreenshot1]()
 
