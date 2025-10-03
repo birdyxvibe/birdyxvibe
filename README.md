@@ -87,10 +87,11 @@ FragileLife is a Minecraft plugin allowing players to simulate a pseudo-ultra ha
 | npm + yarn        | ★★★★☆       |
 
 ### Testing & Quality
-| Skill           | Proficiency |
-|-----------------|-------------|
-| Cypress         | ★☆☆☆☆       |
-| ESLint/Prettier | ★★★★☆       |
+| Skill                | Proficiency |
+|----------------------|-------------|
+| Cypress              | ★☆☆☆☆       |
+| ESLint/Prettier      | ★★★★☆       |
+| Conventional Commits | ★★★★☆       |
 
 ---
 
