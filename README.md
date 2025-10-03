@@ -48,22 +48,37 @@ FragileLife is a Minecraft plugin allowing players to simulate a pseudo-ultra ha
 ## Skills
 
 ### Languages
-- JavaScript/TypeScript, Python, Java, SQL
+- JavaScript/TypeScript    --o--
+- Python                   -o---
+- Java                     --o--
+- SQL                      -o---
 
 ### Frontend
-- React, Next.js, Tailwind CSS, HTML5/CSS3
+- React                    --o--
+- Next.js                  --o--
+- Tailwind CSS             -o---
+- HTML5/CSS3               ---o-
 
 ### Backend
-- Node.js (Express), REST
+- Node.js (Express)        --o--
+- REST                     -o---
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB, Prisma ORM
+- PostgreSQL              --o--
+- MySQL                   -o---
+- MongoDB                 --o--
+- Prisma ORM              --o--
 
 ### DevOps & Tools
-- Git/GitHub/GitLab, Docker, Linux, VS Code, npm, yarn
+- Git/GitHub/GitLab       ---o-  
+- Docker                  --o--
+- Linux                   --o--
+- VS Code                 ---o-
+- npm + yarn              ---o-
 
 ### Testing & Quality
-- Cypress, ESLint/Prettier
+- Cypress                 -o---
+- ESLint/Prettier         ---o-
 
 ---
 
