@@ -48,37 +48,49 @@ FragileLife is a Minecraft plugin allowing players to simulate a pseudo-ultra ha
 ## Skills
 
 ### Languages
-- JavaScript/TypeScript    --o--
-- Python                   -o---
-- Java                     --o--
-- SQL                      -o---
+| Skill                 | Proficiency |
+|-----------------------|-------------|
+| JavaScript/TypeScript | ★★★☆☆       |
+| Python                | ★☆☆☆☆       |
+| Java                  | ★★★☆☆       |
+| SQL                   | ★☆☆☆☆       |
 
 ### Frontend
-- React                    --o--
-- Next.js                  --o--
-- Tailwind CSS             -o---
-- HTML5/CSS3               ---o-
+| Skill        | Proficiency |
+|--------------|-------------|
+| React        | ★★★☆☆       |
+| Next.js      | ★★★☆☆       |
+| Tailwind CSS | ★☆☆☆☆       |
+| HTML5/CSS3   | ★★★★☆       |
 
 ### Backend
-- Node.js (Express)        --o--
-- REST                     -o---
+| Skill              | Proficiency |
+|--------------------|-------------|
+| Node.js (Express)  | ★★★★☆       |
+| REST               | ★☆☆☆☆       |
 
 ### Databases
-- PostgreSQL              --o--
-- MySQL                   -o---
-- MongoDB                 --o--
-- Prisma ORM              --o--
+| Skill      | Proficiency |
+|------------|-------------|
+| PostgreSQL | ★★★☆☆       |
+| MySQL      | ★☆☆☆☆       |
+| MongoDB    | ★★★★☆       |
+| Prisma ORM | ★★★☆☆       |
 
 ### DevOps & Tools
-- Git/GitHub/GitLab       ---o-  
-- Docker                  --o--
-- Linux                   --o--
-- VS Code                 ---o-
-- npm + yarn              ---o-
+| Skill             | Proficiency |
+|-------------------|-------------|
+| Git/GitHub/GitLab | ★★★★☆       |
+| Docker            | ★★☆☆☆       |
+| Linux             | ★★☆☆☆       |
+| VS Code           | ★★★★☆       |
+| npm + yarn        | ★★★★☆       |
 
 ### Testing & Quality
-- Cypress                 -o---
-- ESLint/Prettier         ---o-
+| Skill           | Proficiency |
+|-----------------|-------------|
+| Cypress         | ★☆☆☆☆       |
+| ESLint/Prettier | ★★★★☆       |
 
 ---
 
