@@ -78,20 +78,20 @@ FragileLife is a Minecraft plugin allowing players to simulate a pseudo-ultra ha
 | Prisma ORM | ★★★☆☆       |
 
 ### DevOps & Tools
-| Skill             | Proficiency |
-|-------------------|-------------|
-| Git/GitHub/GitLab | ★★★★☆       |
-| Docker            | ★★☆☆☆       |
-| Linux             | ★★☆☆☆       |
-| VS Code           | ★★★★☆       |
-| npm + yarn        | ★★★★☆       |
+| Skill               | Proficiency |
+|---------------------|-------------|
+| Git/GitHub/GitLab   | ★★★★☆       |
+| Docker              | ★★☆☆☆       |
+| Linux               | ★★☆☆☆       |
+| VS Code             | ★★★★☆       |
+| npm + yarn          | ★★★★☆       |
+| Conventional Commits| ★★★★☆    |
 
 ### Testing & Quality
 | Skill                | Proficiency |
 |----------------------|-------------|
 | Cypress              | ★☆☆☆☆       |
 | ESLint/Prettier      | ★★★★☆       |
-| Conventional Commits | ★★★★☆       |
 
 ---
 
