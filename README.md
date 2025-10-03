@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A full-stack developer currently studying Computer Science at the University of Illinois Chicago</h3>
+# 👋 Hi, I'm Luke
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birdyxvibe&label=Profile%20views&color=0e75b6&style=flat" alt="birdyxvibe" /> </p>
+I'm a 2nd-year Computer Science student at the University of Illinois Chicago, currently working on projects involving user-interaction and backend logic for users via multiple mediums, such as: web, text-based chat (via Discord), and applications (e.g. Minecraft)
 
-- 🔭 I’m currently working on **Aira**
+- 🌱 Currently Learning: Next.js, C++, and C
+- 🗺️ Exploring: Machine Learning, Artificial Intelligence, Cloud Computing
+- Something
+- Something Else
 
-- 🌱 I’m currently learning **Next.js, C, C++, and**
+## Table of Contents
+- [Projects](#projects)
+-   [Project 1: Aira](#project-1-aira)
+-   [Project 2: Database & Web Server Project](#project-2-dbweb)
+-   [Project 3: FragileLife](#project-3-fragilelife)
+- [Skills](#skills)
+- [Education](#education)
+- [Contact](#contact)
+ 
+## Projects
+### Project 1: Aira
+Aira is currently a W.I.P. Discord Application that will be used in communities across the platform to add further interaction beyond simlpy chatting. This application is based heavily upon a previous project of mine, [Ayu](), though it has much more backend organization and made the switch from MongoDB to PostgreSQL+Prisma ORM
+- Tech: Node.js, JavaScript, PostgreSQL, Prisma ORM, ESLint
+- Highlihts:
+-   Database Access abstracted for ease of use by importing within execution files.
+- Repo: [Aira](https://github.com/birdyxvibe/Aira)
+- Screenshots:
+-   ![airaScreenshot1]()
 
-- 💬 Ask me about **NodeJS**
+---
 
-- 📫 How to reach me **<TBD>**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/luke._martyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luke._martyn" height="30" width="40" /></a>
-</p>
+### Languages
+- JavaScript/TypeScript, Python, Java, SQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
+- React, Next.js, Tailwind CSS, HTML5/CSS3
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=birdyxvibe&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="birdyxvibe" /></p>
+### Backend
+- Node.js (Express), REST
+
+### Databases
+- PostgreSQL, MySQL, MongoDB, Prisma ORM
+
+### DevOps & Tools
+- Git/GitHub, Docker, Linux, VS Code
+
+### Testing & Quality
+- Cypress, ESLint/Prettier
+
+---
+
+## Education
+- Earning B.S. in Computer Science, University of Illinois Chicago, 2028
+-   Relevant Coursework: Program Design, Discrete Mathematics, Calculus 3
+
+---
+
+## Quick Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
